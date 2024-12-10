@@ -76,3 +76,9 @@ const startServer = async () => {
 };
 
 startServer();
+
+
+//
+// {
+//   "query": "query { customers { name email } }"
+// }

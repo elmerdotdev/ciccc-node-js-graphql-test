@@ -73,3 +73,7 @@ const startServer = () => __awaiter(void 0, void 0, void 0, function* () {
     console.log(`Server ready at ${url}`);
 });
 startServer();
+//
+// {
+//   "query": "query { customers { name email } }"
+// }
